@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [My portfolio](https://dineshkumar-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Java Based Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://dineshkumar-portfolio.netlify.app/](https://dineshkumar-portfolio.netlify.app/)
 
-- 💬 Ask me about **react,java script**
+- 💬 Ask me about **react,java script,Java**
 
 - 📫 How to reach me **dineshkumaroggu@gmail.com**
 
