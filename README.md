@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshkumaroggu&label=Profile%20views&color=0e75b6&style=flat" alt="dineshkumaroggu" /> </p>
 
-- 🔭 I’m currently working on [My portfolio](https://dineshkumar-portfolio.netlify.app/)
+- 🔭 I’m currently working on **Java Fsd Projects**
 
 - 🌱 I’m currently learning **Java Based Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://dineshkumar-portfolio.netlify.app/](https://dineshkumar-portfolio.netlify.app/)
 
-- 💬 Ask me about **react,java script,Java**
+- 💬 Ask me about **Angular,react,java script,Java**
 
 - 📫 How to reach me **dineshkumaroggu@gmail.com**
 
