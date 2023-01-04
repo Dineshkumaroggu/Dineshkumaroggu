@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Based Full Stack**
 
-- 👨‍💻 All of my projects are available at [https://dineshkumar-portfolio.netlify.app/](https://dineshkumar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dineshkumaroggu.netlify.app/](https://dineshkumaroggu.netlify.app/)
 
 - 💬 Ask me about **Angular,react,java script,Java**
 
