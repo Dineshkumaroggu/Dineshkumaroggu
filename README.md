@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://dineshkumarreddyoggu.vercel.app/
 
-- 💬 Ask me about **Angular,react,java script,Java**
+- 💬 Ask me about **java ,Spring boot ,linux ,scripting,react ..**
 
 - 📫 How to reach me **dineshkumaroggu@gmail.com**
 
